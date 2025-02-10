@@ -1,21 +1,21 @@
-# 👋 Hi, I'm Mouaad El Yalaoui 
+# 👋 Hi, I'm Mouaad El Yalaoui  
 
-I'm a *1st-year engineering student* specializing in *Machine Learning and Data Science*. Passionate about AI, data-driven solutions, and software development.  
+I'm a *1st-year engineering student* specializing in *Machine Learning and Data Science*. Passionate about AI, automation, and software development, I love building intelligent systems that solve real-world problems.  
 
 ---
 
-## 🧐 Who Am I?  
-- 🎓 Engineering student with a focus on *Machine Learning, Artificial Intelligence, and Data Science*  
-- 🛠 Passionate about *software development, automation, and game development*  
-- 🚗 Exploring *Evolutionary Algorithms (NEAT) to train self-driving cars in Godot*  
+## 🧐 About Me  
+- 🎓 *Engineering student* focused on *Machine Learning, Artificial Intelligence, and Data Science*  
+- 🛠 Passionate about *software development, automation, and game AI*  
+- 🚗 Currently exploring *Evolutionary Algorithms (NEAT) to train self-driving cars in Godot*  
 - 📊 Enthusiast in *statistical modeling, deep learning, and optimization techniques*  
 
 ---
 
-## 🔭 What I'm Currently Working On  
-- 🏎 *Building a NEAT-based self-driving car simulation in Godot*  
-- 🤖 *Exploring reinforcement learning and deep neural networks*  
-- 🛠 *Working on open-source projects related to AI and automation*  
+## 🔭 Current Projects  
+- 🏎 Developing a *NEAT-based self-driving car simulation* in Godot  
+- 🤖 Exploring *reinforcement learning and deep neural networks*  
+- 🛠 Contributing to *open-source AI and automation projects*  
 
 ---
 
@@ -37,7 +37,6 @@ I'm a *1st-year engineering student* specializing in *Machine Learning and Data 
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
 </p>
 
 ### 📱 Mobile Development (Flutter & Firebase)  
@@ -45,8 +44,6 @@ I'm a *1st-year engineering student* specializing in *Machine Learning and Data 
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
-  <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white" />
 </p>
 
 ### 🛠 Development Tools  
@@ -83,5 +80,3 @@ I'm a *1st-year engineering student* specializing in *Machine Learning and Data 
 
 ### ⚡ Fun Fact  
 💡 I love blending AI with game development to create autonomous agents that learn and adapt!  
-
----
