@@ -40,6 +40,15 @@ I'm a *1st-year engineering student* specializing in *Machine Learning and Data 
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
 </p>
 
+### 📱 Mobile Development (Flutter & Firebase)  
+<p align="left">
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
+  <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white" />
+</p>
+
 ### 🛠 Development Tools  
 <p align="left">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
@@ -66,7 +75,7 @@ I'm a *1st-year engineering student* specializing in *Machine Learning and Data 
 ---
 
 ## 📫 Connect with Me  
-- 🔗 GitHub: [Mouaad](https://github.com/Moad26)  
+- 🔗 GitHub: [Mouaad26](https://github.com/Moad26)  
 - 💼 LinkedIn: [Mouaad El Yalaoui](https://www.linkedin.com/in/moua%C3%A2d-el-yalaoui-a64582316/)  
 - 📧 Email: [moad2632005@gmail.com](mailto:moad2632005@gmail.com)  
 
