@@ -87,3 +87,5 @@ I'm a *1st-year engineering student* specializing in *Machine Learning and Data 
 💡 I love blending AI with game development to create autonomous agents that learn and adapt!  
 
 ---
+
+![Profile views](https://komarev.com/ghpvc/?username=Moad26)
