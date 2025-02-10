@@ -1,19 +1,78 @@
-<h1 align="center">Hi 👋, I'm Mouaad El Yalaoui</h1>
-<h3 align="center">A passionate data science student</h3>
-<img align="right" alt="Coding" width="400" src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/ke17ZwdGBToddI8pDm48kPoswlzjSVMM-SxOp7CV59BZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PI6FXy8c9PWtBlqAVlUS5izpdcIXDZqDYvprRqZ29Pw0o/coding-freak.gif">
+# 👋 Hi, I'm Mouaad El Yalaoui 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=moad26&label=Profile%20views&color=0e75b6&style=flat" alt="moad26" /> </p>
+I'm a *1st-year engineering student* specializing in *Machine Learning and Data Science*. Passionate about AI, data-driven solutions, and software development.  
 
-- 📫 How to reach me **moad2632005@gmail.com**
+---
 
-<h3 align="left">Connect with me:</h3>
+## 🧐 Who Am I?  
+- 🎓 Engineering student with a focus on *Machine Learning, Artificial Intelligence, and Data Science*  
+- 🛠 Passionate about *software development, automation, and game development*  
+- 🚗 Exploring *Evolutionary Algorithms (NEAT) to train self-driving cars in Godot*  
+- 📊 Enthusiast in *statistical modeling, deep learning, and optimization techniques*  
+
+---
+
+## 🔭 What I'm Currently Working On  
+- 🏎 *Building a NEAT-based self-driving car simulation in Godot*  
+- 🤖 *Exploring reinforcement learning and deep neural networks*  
+- 🛠 *Working on open-source projects related to AI and automation*  
+
+---
+
+## 🚀 Technologies & Tools  
+
+### 🖥 Programming Languages  
 <p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
+  <img src="https://img.shields.io/badge/Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white" />
+  <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+### 🌐 Web Development  
+<p align="left">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=moad26&show_icons=true&locale=en&layout=compact" alt="moad26" /></p>
+### 🛠 Development Tools  
+<p align="left">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" />
+  <img src="https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godotengine&logoColor=white" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=moad26&show_icons=true&locale=en" alt="moad26" /></p>
+### 🔬 Machine Learning & Data Science Libraries  
+<p align="left">
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/Statsmodels-4B0082?style=for-the-badge&logo=statsmodels&logoColor=white" />
+</p>
 
+---
+
+## 📊 GitHub Stats  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Moad26&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Moad26&theme=radical" alt="GitHub Streak" />
+</p>
+
+---
+
+## 📫 Connect with Me  
+- 🔗 GitHub: [Mouaad](https://github.com/Moad26)  
+- 💼 LinkedIn: [Mouaad El Yalaoui](https://www.linkedin.com/in/moua%C3%A2d-el-yalaoui-a64582316/)  
+- 📧 Email: [moad2632005@gmail.com](mailto:moad2632005@gmail.com)  
+
+---
+
+### ⚡ Fun Fact  
+💡 I love blending AI with game development to create autonomous agents that learn and adapt!  
+
+---
