@@ -77,7 +77,7 @@ I'm a *1st-year engineering student* specializing in *Machine Learning and Data 
 ---
 
 ## 📫 Connect with Me  
-- 🔗 GitHub: [Mouaad26](https://github.com/Moad26)  
+- 🔗 GitHub: [Moad26](https://github.com/Moad26)  
 - 💼 LinkedIn: [Mouaad El Yalaoui](https://www.linkedin.com/in/moua%C3%A2d-el-yalaoui-a64582316/)  
 - 📧 Email: [moad2632005@gmail.com](mailto:moad2632005@gmail.com)  
 
