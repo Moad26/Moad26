@@ -1,6 +1,6 @@
 # Mouaad El Yalaoui
 
-I am a first-year engineering student specializing in Machine Learning and Data Science. My work sits at the intersection of AI research, software engineering, and game development. I focus on building reproducible experiments, production-ready prototypes, and compact technical deliverables for academic and competition settings.
+I am a second-year engineering student specializing in Machine Learning and Data Science. My work sits at the intersection of AI research, software engineering, and game development. I focus on building reproducible experiments, production-ready prototypes, and compact technical deliverables for academic and competition settings.
 
 ---
 
@@ -70,7 +70,7 @@ Development Tools
 ## GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Moad26&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Moad26&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Moad26&theme=radical" alt="GitHub Streak" />
 </p>
 
 ---
